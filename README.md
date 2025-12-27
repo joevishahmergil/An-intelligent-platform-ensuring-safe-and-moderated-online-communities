@@ -111,7 +111,7 @@ Administrators – System configuration and user management
 │   └── vite.config.js
 │
 └── README.md
-
+```
 # Technology Stack
 **Backend**
 
