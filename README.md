@@ -91,7 +91,7 @@ Policy Specialists – Manage appeals and policy enforcement
 Administrators – System configuration and user management
 
 # Project Structure
-content-moderation-system/
+```content-moderation-system/
 ├── backend/
 │   ├── databases/          # SQLite & ChromaDB
 │   ├── src/
